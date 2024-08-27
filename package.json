@@ -1,0 +1,10 @@
+{
+  "name": "free-torrents",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Example extension of free public torrents!",
+  "main": "index.js",
+  "keywords": [],
+  "author": "ThaUnknown",
+  "license": "MIT"
+}
